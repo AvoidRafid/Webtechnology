@@ -1,0 +1,16 @@
+{% extends 'events\base.html' %}
+
+{% block content %}
+
+        <center style="color:rgb(183, 166, 198); margin:200px;">
+
+        <h1 style="position: relative;">Hello {{name}}! Welcome to Germany: {{month}}, {{year}}</h1>
+
+        <h1 style="position: relative;">{{cal|safe}}</h1>
+        <br><br><br><br><br><br>
+
+        <h2>Current time is {{ time }}</h2>
+        copy right claim {{ current_year }}
+        </center>
+
+{% endblock %}

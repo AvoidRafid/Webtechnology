@@ -3,22 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b932da1-7f8a-4f16-9040-0ac0d6327eef" name="Changes" comment="Upload">
       <changelist_data name="AvoidRafid" email="rafid.4507@gmail.com" />
-      <change afterPath="$PROJECT_DIR$/../.idea/Web Technologies.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_01/NetworkProgramming.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/Ue3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_05/UE5.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_06/UE6.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_07/UE7.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practise Folder/Aarduino_sending.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practise Folder/callable.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practise Folder/can_communication.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practise Folder/receiving_rasberrypi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practise Folder/sending_rasberrypi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
